@@ -10,6 +10,7 @@ En la patagonia.
 
 Y de merienda un chocolate caliente con un alfajor.
 
-Modificacion de README 18/06 19:58
+Modificacion desde VSC 02/07/2024
+
 
 
